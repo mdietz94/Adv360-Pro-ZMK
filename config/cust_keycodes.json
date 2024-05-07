@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LC(B) A"
+		],
+		"description": "LC(B) A",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
